@@ -19,7 +19,7 @@ Although the performance doesn't always surpass scikit-learn's highly optimized 
 ### Setup Instructions
 1. **Clone the repository**
     ```bash
-    git clone <URL> && cd 
+    git clone https://github.com/Calvin9c/ML-with-NumPy.git && cd ML-with-NumPy
     ```
 2. **Create a Conda environment and install dependencies**
     ```bash
